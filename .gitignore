@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ai_coach_env/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Large media files (videos/models)
+*.mp4
+*.avi
+*.mov
+*.weights
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
